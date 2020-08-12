@@ -20,12 +20,12 @@ I hope this helps you get faster to that point in time when you catch yourself s
 
 Feel free to add cool projects to the list.
 
-For more information on tacit knowledge, visit [here](https://commoncog.com/blog/the-tacit-knowledge-series/).
+For more information on tacit knowledge, I can't recommend [this enough](https://commoncog.com/blog/the-tacit-knowledge-series/).
 
 ### Projects ###
 
 - [Robin Wieruch's Course Platform](https://github.com/rwieruch/nextjs-firebase-authentication)
-- [kent C. Dodds' Website](https://github.com/kentcdodds/kentcdodds.com)
+- [Kent C. Dodds' Website](https://github.com/kentcdodds/kentcdodds.com)
 - [Bookshelf by Kent C. Dodds](https://github.com/kentcdodds/bookshelf)
 - [use-deep-compare-effect custom hook](https://github.com/kentcdodds/use-deep-compare-effect)
 - [whatthefuck.is by Dan Abramov](https://github.com/gaearon/whatthefuck.is)
