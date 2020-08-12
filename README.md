@@ -6,7 +6,7 @@ A curated collection of React projects by smart developers
 
 You learned React not so long ago, but you feel like you know how to write React apps well. useEffect and useContext are your friends and somehow, you got invited to that secret Sr. devs project that is being built with React
 
-It’s your first day and you start reading the codebase and it looks like nothing you’ve seen before, but somehow you understand it all. You think to yourself, *“holy sh*t, this is beautiful”*. *“How did they come up with this pattern?, it would have never occurred to me to do it this way”*. It makes your old React code look like an Italian dish (yes, spaghetti).
+It’s your first day and you start reading the codebase and it looks like nothing you’ve seen before, but somehow you understand it all. You think to yourself, *“holy sh\*t, this is beautiful”*. *“How did they come up with this pattern?, it would have never occurred to me to do it this way”*. It makes your old React code look like an Italian dish (yes, spaghetti).
 
 Next day, you team up with one of the Sr. devs and you ask her some questions like, *why did you code it this way?* *How did you come up with this pattern?* And the only answers you get are; *"I don’t know really"*, *"it just feels right to write it this way"* or the now mythical *“I just know”*.
 
