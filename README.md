@@ -4,7 +4,7 @@ A curated collection of React projects by smart developers
 
 ### The Problem ###
 
-You learned React not so long ago, but you feel like you know how to write React apps well. useEffect and useContext are your friends and somehow, you got invited to that secret Sr. devs project that is being built with React
+You learned React not so long ago, but you feel like you know how to write React apps well. useEffect and useContext are your friends and somehow, you got invited to that secret Sr. devs project that is being built with React.
 
 It’s your first day and you start reading the codebase and it looks like nothing you’ve seen before, but somehow you understand it all. You think to yourself, *“holy sh\*t, this is beautiful”*. *“How did they come up with this pattern?, it would have never occurred to me to do it this way”*. It makes your old React code look like an Italian dish (yes, spaghetti).
 
@@ -14,7 +14,7 @@ This is called [**tacit knowledge**](https://commoncog.com/blog/the-tacit-knowle
 
 ### The Solution
 
-This repo gathers open sourced React projects built by smart Sr. devs. Reading through their code will help you improve your React game and build your tacit knowledge.
+This repo gathers open sourced React projects built by smart Sr. devs. Reading through their code will help you improve your React game and build your React tacit knowledge.
 
 I hope this helps you get faster to that point in time when you catch yourself saying *"I don't know really, it just felt right"* and realize that "you just know".
 
