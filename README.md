@@ -1,6 +1,6 @@
 ### **Build your React tacit knowledge**
 
-A curated collection of React projects by smart developers
+A curated collection of React projects by smart developers.
 
 ### The Problem ###
 
@@ -30,3 +30,6 @@ For more information on tacit knowledge, I can't recommend [this enough](https:/
 - [use-deep-compare-effect custom hook](https://github.com/kentcdodds/use-deep-compare-effect)
 - [whatthefuck.is by Dan Abramov](https://github.com/gaearon/whatthefuck.is)
 - [Dan Abramov's overreacted.io ](https://github.com/gaearon/overreacted.io)
+- [women-of-react-website](https://github.com/rachelnabors/women-of-react-website)
+- [Marc Grabanski's Website](https://github.com/1Marc/marcgrabanski.com)
+- [The Complete Intro to React, the fifth version](https://github.com/btholt/complete-intro-to-react-v5)
