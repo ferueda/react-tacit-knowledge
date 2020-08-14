@@ -39,3 +39,7 @@ For more information on tacit knowledge, I can't recommend [this enough](https:/
 - [Full Stack Open Course Website](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io)
 - [Full Stack Advanced React and GraphQL](https://github.com/wesbos/Advanced-React)
 - [Robo Friends by Andrei Neagoie](https://github.com/aneagoie/robofriends)
+- [Webamp - Winamp 2 reimplemented for the browser](https://github.com/captbaritone/webamp/tree/master/packages/webamp)
+- [Mattermost - An open source Slack alternative](https://github.com/mattermost/mattermost-webapp)
+- [Spectrum - Simple, powerful online communities](https://github.com/withspectrum/spectrum)
+
