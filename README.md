@@ -42,4 +42,9 @@ For more information on tacit knowledge, I can't recommend [this enough](https:/
 - [Webamp - Winamp 2 reimplemented for the browser](https://github.com/captbaritone/webamp/tree/master/packages/webamp)
 - [Mattermost - An open source Slack alternative](https://github.com/mattermost/mattermost-webapp)
 - [Spectrum - Simple, powerful online communities](https://github.com/withspectrum/spectrum)
+- [Podcast Player](https://github.com/gaearon/podcast-player)
+- [use-dark-mode](https://github.com/donavon/use-dark-mode)
+- [use-persisted-state](https://github.com/donavon/use-persisted-state)
+- [Binary Clock](https://github.com/donavon/binclock)
+- [Next.js + Firebase Starter](https://github.com/rwieruch/nextjs-firebase-authentication)
 
