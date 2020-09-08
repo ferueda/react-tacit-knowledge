@@ -47,4 +47,8 @@ For more information on tacit knowledge, I can't recommend [this enough](https:/
 - [use-persisted-state](https://github.com/donavon/use-persisted-state)
 - [Binary Clock](https://github.com/donavon/binclock)
 - [Next.js + Firebase Starter](https://github.com/rwieruch/nextjs-firebase-authentication)
+- [Kibana](https://github.com/elastic/kibana)
+- [React Shopping Cart](https://github.com/jeffersonRibeiro/react-shopping-cart)
+- [The Movie Database App](https://github.com/SKempin/reactjs-tmdb-app)
+
 
