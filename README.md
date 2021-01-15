@@ -24,6 +24,7 @@ For more information on tacit knowledge, I can't recommend [this enough](https:/
 
 ### Projects ###
 
+- [egghead.io Website](https://github.com/eggheadio/egghead-next)
 - [Robin Wieruch's Course Platform](https://github.com/rwieruch/nextjs-firebase-authentication)
 - [Kent C. Dodds' Website](https://github.com/kentcdodds/kentcdodds.com)
 - [Bookshelf by Kent C. Dodds](https://github.com/kentcdodds/bookshelf)
